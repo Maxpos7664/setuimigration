@@ -1,3 +1,3 @@
-# setuimigration
+# setuimmigration
 
 https://setuimmigration.com/
